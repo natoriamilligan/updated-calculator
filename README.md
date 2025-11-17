@@ -1,7 +1,7 @@
 # Calculator App
 
 ## ❓ About
-This is a simple calculator app to showcase my Javascript skills. [Link to demo](http://www.natoria.tech/Nimbus/)
+This is a simple calculator app to showcase my Javascript skills. [Link to demo]([http://www.natoria.tech/Nimbus/](https://www.natoria.tech/updated-calculator/))
 
 ## 🧰 Tech
 * ![HTML][HTML-badge]
@@ -9,9 +9,12 @@ This is a simple calculator app to showcase my Javascript skills. [Link to demo]
 * ![CSS][CSS-badge]
 
 ## 🧠 What I Learned
--
+- How to retrieve elements from the DOM using Javascript
+- How to use the forEach method
 
 ## 🗺️ Roadmap
+- [ ] Use Math instead of your own calculations
+- [ ] Fix decimal bugs
 - [ ] Add scientific version
   
 ## 📫 Contact
