@@ -1,7 +1,7 @@
 # Calculator App
 
 ## ❓ About
-This is a simple calculator app to showcase my Javascript skills. [Link to demo][https://www.natoria.tech/updated-calculator/]
+This is a simple calculator app to showcase my Javascript skills. [Link to demo](https://www.natoria.tech/updated-calculator/)
 
 ## 🧰 Tech
 * ![HTML][HTML-badge]
