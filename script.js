@@ -71,8 +71,7 @@ const equalClicked = function(prev, next) {
 
 const opClicked = function(opr) {
   if (operatorClicked) {
-    //equalClicked(previousInput, nextValue); //THIS IS WHAT YOU TURNED OFF. ITS NOT WORKING.
-    //i think you need to create a function that only executes when the the previousvalue is equal to something and the nextValue is equal to '' like what happens at the end of executing the equalClicked function. *basically i need a function that will caluclate the prev and next numbers without the equal sign being involved. Might need to actually calculate based on if an operator is pressed when something is IN previousInput AND nextValue. <--------- That one is the one you want but you can try both.
+    //equalClicked(previousInput, nextValue); // Line NOT WORKING.
     operatorClicked = opr.value;
   } else {
     operatorClicked = opr.value;
