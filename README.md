@@ -5,8 +5,9 @@ This is a simple calculator app to showcase my Javascript skills. [Link to demo]
 
 ## 🧰 Tech
 * ![HTML][HTML-badge]
-* ![Javascript][JS]
 * ![CSS][CSS-badge]
+* ![Javascript][JS]
+
 
 ## 🧠 What I Learned
 - How to retrieve elements from the DOM using Javascript
